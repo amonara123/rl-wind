@@ -1,0 +1,72 @@
+{
+    "AGENTS": {
+        "agent01": {
+            "agent": {
+                "callbacks": {
+                    "callback_batch_end": "./loc_data/batch_log.txt",
+                    "callback_epoch_end": "./loc_data/epoch_log.txt",
+                    "callback_save_result": "./loc_data/save.txt"
+                },
+                "comp_func": "Adam",
+                "eps": 1,
+                "fp_weights": "./loc_data/ag_weight.txt",
+                "gamma": 0.5,
+                "limit": 1000,
+                "load_agent_weights_flag": false,
+                "nb_steps": 10000,
+                "policy": "EpsGreedyQPolicy",
+                "target_model_update": 0.1,
+                "verbose": 2,
+                "visualize": false,
+                "window_length": 1
+            },
+            "env": {
+                "agent_id": "agent01",
+                "max_step": 100,
+                "nb_act": 100,
+                "reward_id": [
+                    "StandardDist",
+                    {
+                        "c": 0.3,
+                        "mu": 50,
+                        "sigma": 0.31
+                    }
+                ]
+            },
+            "io_map": {
+                "input": {
+                    "sgen153": "scaling"
+                },
+                "output": {
+                    "line194": "loading_percent",
+                    "line42": "loading_percent",
+                    "line44": "loading_percent",
+                    "line99": "loading_percent",
+                    "sgen153": "p_kw"
+                }
+            },
+            "model": {
+                "0": [
+                    "Dense",
+                    256,
+                    "relu"
+                ],
+                "1": [
+                    "Dense",
+                    256,
+                    "relu"
+                ]
+            }
+        }
+    },
+    "GRID_IO": {
+        "gridIO_fp": "./loc_data/gridIO.json"
+    },
+    "LOG": {
+        "log_path": "./loc_data/exp.log"
+    },
+    "PP_NET": {
+        "file_path": "./loc_data/net12000.json",
+        "pp_name": ""
+    }
+}

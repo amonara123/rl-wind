@@ -1,0 +1,7459 @@
+{
+    "bus0": {
+        "input": {},
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float",
+            "vm_pu": "float"
+        }
+    },
+    "bus1": {
+        "input": {},
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float",
+            "vm_pu": "float"
+        }
+    },
+    "bus100": {
+        "input": {},
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float",
+            "vm_pu": "float"
+        }
+    },
+    "bus101": {
+        "input": {},
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float",
+            "vm_pu": "float"
+        }
+    },
+    "bus102": {
+        "input": {},
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float",
+            "vm_pu": "float"
+        }
+    },
+    "bus103": {
+        "input": {},
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float",
+            "vm_pu": "float"
+        }
+    },
+    "bus104": {
+        "input": {},
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float",
+            "vm_pu": "float"
+        }
+    },
+    "bus106": {
+        "input": {},
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float",
+            "vm_pu": "float"
+        }
+    },
+    "bus107": {
+        "input": {},
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float",
+            "vm_pu": "float"
+        }
+    },
+    "bus108": {
+        "input": {},
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float",
+            "vm_pu": "float"
+        }
+    },
+    "bus109": {
+        "input": {},
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float",
+            "vm_pu": "float"
+        }
+    },
+    "bus110": {
+        "input": {},
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float",
+            "vm_pu": "float"
+        }
+    },
+    "bus111": {
+        "input": {},
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float",
+            "vm_pu": "float"
+        }
+    },
+    "bus116": {
+        "input": {},
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float",
+            "vm_pu": "float"
+        }
+    },
+    "bus117": {
+        "input": {},
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float",
+            "vm_pu": "float"
+        }
+    },
+    "bus118": {
+        "input": {},
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float",
+            "vm_pu": "float"
+        }
+    },
+    "bus119": {
+        "input": {},
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float",
+            "vm_pu": "float"
+        }
+    },
+    "bus120": {
+        "input": {},
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float",
+            "vm_pu": "float"
+        }
+    },
+    "bus126": {
+        "input": {},
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float",
+            "vm_pu": "float"
+        }
+    },
+    "bus129": {
+        "input": {},
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float",
+            "vm_pu": "float"
+        }
+    },
+    "bus131": {
+        "input": {},
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float",
+            "vm_pu": "float"
+        }
+    },
+    "bus132": {
+        "input": {},
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float",
+            "vm_pu": "float"
+        }
+    },
+    "bus133": {
+        "input": {},
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float",
+            "vm_pu": "float"
+        }
+    },
+    "bus134": {
+        "input": {},
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float",
+            "vm_pu": "float"
+        }
+    },
+    "bus136": {
+        "input": {},
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float",
+            "vm_pu": "float"
+        }
+    },
+    "bus137": {
+        "input": {},
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float",
+            "vm_pu": "float"
+        }
+    },
+    "bus138": {
+        "input": {},
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float",
+            "vm_pu": "float"
+        }
+    },
+    "bus140": {
+        "input": {},
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float",
+            "vm_pu": "float"
+        }
+    },
+    "bus141": {
+        "input": {},
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float",
+            "vm_pu": "float"
+        }
+    },
+    "bus142": {
+        "input": {},
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float",
+            "vm_pu": "float"
+        }
+    },
+    "bus143": {
+        "input": {},
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float",
+            "vm_pu": "float"
+        }
+    },
+    "bus144": {
+        "input": {},
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float",
+            "vm_pu": "float"
+        }
+    },
+    "bus145": {
+        "input": {},
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float",
+            "vm_pu": "float"
+        }
+    },
+    "bus146": {
+        "input": {},
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float",
+            "vm_pu": "float"
+        }
+    },
+    "bus147": {
+        "input": {},
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float",
+            "vm_pu": "float"
+        }
+    },
+    "bus148": {
+        "input": {},
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float",
+            "vm_pu": "float"
+        }
+    },
+    "bus149": {
+        "input": {},
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float",
+            "vm_pu": "float"
+        }
+    },
+    "bus150": {
+        "input": {},
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float",
+            "vm_pu": "float"
+        }
+    },
+    "bus153": {
+        "input": {},
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float",
+            "vm_pu": "float"
+        }
+    },
+    "bus155": {
+        "input": {},
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float",
+            "vm_pu": "float"
+        }
+    },
+    "bus157": {
+        "input": {},
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float",
+            "vm_pu": "float"
+        }
+    },
+    "bus159": {
+        "input": {},
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float",
+            "vm_pu": "float"
+        }
+    },
+    "bus161": {
+        "input": {},
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float",
+            "vm_pu": "float"
+        }
+    },
+    "bus162": {
+        "input": {},
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float",
+            "vm_pu": "float"
+        }
+    },
+    "bus167": {
+        "input": {},
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float",
+            "vm_pu": "float"
+        }
+    },
+    "bus168": {
+        "input": {},
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float",
+            "vm_pu": "float"
+        }
+    },
+    "bus169": {
+        "input": {},
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float",
+            "vm_pu": "float"
+        }
+    },
+    "bus170": {
+        "input": {},
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float",
+            "vm_pu": "float"
+        }
+    },
+    "bus171": {
+        "input": {},
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float",
+            "vm_pu": "float"
+        }
+    },
+    "bus172": {
+        "input": {},
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float",
+            "vm_pu": "float"
+        }
+    },
+    "bus173": {
+        "input": {},
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float",
+            "vm_pu": "float"
+        }
+    },
+    "bus174": {
+        "input": {},
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float",
+            "vm_pu": "float"
+        }
+    },
+    "bus176": {
+        "input": {},
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float",
+            "vm_pu": "float"
+        }
+    },
+    "bus178": {
+        "input": {},
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float",
+            "vm_pu": "float"
+        }
+    },
+    "bus181": {
+        "input": {},
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float",
+            "vm_pu": "float"
+        }
+    },
+    "bus184": {
+        "input": {},
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float",
+            "vm_pu": "float"
+        }
+    },
+    "bus186": {
+        "input": {},
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float",
+            "vm_pu": "float"
+        }
+    },
+    "bus188": {
+        "input": {},
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float",
+            "vm_pu": "float"
+        }
+    },
+    "bus189": {
+        "input": {},
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float",
+            "vm_pu": "float"
+        }
+    },
+    "bus190": {
+        "input": {},
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float",
+            "vm_pu": "float"
+        }
+    },
+    "bus192": {
+        "input": {},
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float",
+            "vm_pu": "float"
+        }
+    },
+    "bus194": {
+        "input": {},
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float",
+            "vm_pu": "float"
+        }
+    },
+    "bus195": {
+        "input": {},
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float",
+            "vm_pu": "float"
+        }
+    },
+    "bus196": {
+        "input": {},
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float",
+            "vm_pu": "float"
+        }
+    },
+    "bus197": {
+        "input": {},
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float",
+            "vm_pu": "float"
+        }
+    },
+    "bus198": {
+        "input": {},
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float",
+            "vm_pu": "float"
+        }
+    },
+    "bus199": {
+        "input": {},
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float",
+            "vm_pu": "float"
+        }
+    },
+    "bus2": {
+        "input": {},
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float",
+            "vm_pu": "float"
+        }
+    },
+    "bus200": {
+        "input": {},
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float",
+            "vm_pu": "float"
+        }
+    },
+    "bus201": {
+        "input": {},
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float",
+            "vm_pu": "float"
+        }
+    },
+    "bus205": {
+        "input": {},
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float",
+            "vm_pu": "float"
+        }
+    },
+    "bus207": {
+        "input": {},
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float",
+            "vm_pu": "float"
+        }
+    },
+    "bus210": {
+        "input": {},
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float",
+            "vm_pu": "float"
+        }
+    },
+    "bus213": {
+        "input": {},
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float",
+            "vm_pu": "float"
+        }
+    },
+    "bus215": {
+        "input": {},
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float",
+            "vm_pu": "float"
+        }
+    },
+    "bus216": {
+        "input": {},
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float",
+            "vm_pu": "float"
+        }
+    },
+    "bus219": {
+        "input": {},
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float",
+            "vm_pu": "float"
+        }
+    },
+    "bus221": {
+        "input": {},
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float",
+            "vm_pu": "float"
+        }
+    },
+    "bus223": {
+        "input": {},
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float",
+            "vm_pu": "float"
+        }
+    },
+    "bus224": {
+        "input": {},
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float",
+            "vm_pu": "float"
+        }
+    },
+    "bus227": {
+        "input": {},
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float",
+            "vm_pu": "float"
+        }
+    },
+    "bus229": {
+        "input": {},
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float",
+            "vm_pu": "float"
+        }
+    },
+    "bus231": {
+        "input": {},
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float",
+            "vm_pu": "float"
+        }
+    },
+    "bus235": {
+        "input": {},
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float",
+            "vm_pu": "float"
+        }
+    },
+    "bus236": {
+        "input": {},
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float",
+            "vm_pu": "float"
+        }
+    },
+    "bus237": {
+        "input": {},
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float",
+            "vm_pu": "float"
+        }
+    },
+    "bus238": {
+        "input": {},
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float",
+            "vm_pu": "float"
+        }
+    },
+    "bus239": {
+        "input": {},
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float",
+            "vm_pu": "float"
+        }
+    },
+    "bus240": {
+        "input": {},
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float",
+            "vm_pu": "float"
+        }
+    },
+    "bus241": {
+        "input": {},
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float",
+            "vm_pu": "float"
+        }
+    },
+    "bus242": {
+        "input": {},
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float",
+            "vm_pu": "float"
+        }
+    },
+    "bus243": {
+        "input": {},
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float",
+            "vm_pu": "float"
+        }
+    },
+    "bus244": {
+        "input": {},
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float",
+            "vm_pu": "float"
+        }
+    },
+    "bus245": {
+        "input": {},
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float",
+            "vm_pu": "float"
+        }
+    },
+    "bus246": {
+        "input": {},
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float",
+            "vm_pu": "float"
+        }
+    },
+    "bus247": {
+        "input": {},
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float",
+            "vm_pu": "float"
+        }
+    },
+    "bus248": {
+        "input": {},
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float",
+            "vm_pu": "float"
+        }
+    },
+    "bus253": {
+        "input": {},
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float",
+            "vm_pu": "float"
+        }
+    },
+    "bus269": {
+        "input": {},
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float",
+            "vm_pu": "float"
+        }
+    },
+    "bus271": {
+        "input": {},
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float",
+            "vm_pu": "float"
+        }
+    },
+    "bus273": {
+        "input": {},
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float",
+            "vm_pu": "float"
+        }
+    },
+    "bus275": {
+        "input": {},
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float",
+            "vm_pu": "float"
+        }
+    },
+    "bus281": {
+        "input": {},
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float",
+            "vm_pu": "float"
+        }
+    },
+    "bus285": {
+        "input": {},
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float",
+            "vm_pu": "float"
+        }
+    },
+    "bus286": {
+        "input": {},
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float",
+            "vm_pu": "float"
+        }
+    },
+    "bus287": {
+        "input": {},
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float",
+            "vm_pu": "float"
+        }
+    },
+    "bus288": {
+        "input": {},
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float",
+            "vm_pu": "float"
+        }
+    },
+    "bus289": {
+        "input": {},
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float",
+            "vm_pu": "float"
+        }
+    },
+    "bus29": {
+        "input": {},
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float",
+            "vm_pu": "float"
+        }
+    },
+    "bus290": {
+        "input": {},
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float",
+            "vm_pu": "float"
+        }
+    },
+    "bus298": {
+        "input": {},
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float",
+            "vm_pu": "float"
+        }
+    },
+    "bus3": {
+        "input": {},
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float",
+            "vm_pu": "float"
+        }
+    },
+    "bus30": {
+        "input": {},
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float",
+            "vm_pu": "float"
+        }
+    },
+    "bus301": {
+        "input": {},
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float",
+            "vm_pu": "float"
+        }
+    },
+    "bus303": {
+        "input": {},
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float",
+            "vm_pu": "float"
+        }
+    },
+    "bus304": {
+        "input": {},
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float",
+            "vm_pu": "float"
+        }
+    },
+    "bus305": {
+        "input": {},
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float",
+            "vm_pu": "float"
+        }
+    },
+    "bus31": {
+        "input": {},
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float",
+            "vm_pu": "float"
+        }
+    },
+    "bus312": {
+        "input": {},
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float",
+            "vm_pu": "float"
+        }
+    },
+    "bus313": {
+        "input": {},
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float",
+            "vm_pu": "float"
+        }
+    },
+    "bus314": {
+        "input": {},
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float",
+            "vm_pu": "float"
+        }
+    },
+    "bus315": {
+        "input": {},
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float",
+            "vm_pu": "float"
+        }
+    },
+    "bus316": {
+        "input": {},
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float",
+            "vm_pu": "float"
+        }
+    },
+    "bus317": {
+        "input": {},
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float",
+            "vm_pu": "float"
+        }
+    },
+    "bus318": {
+        "input": {},
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float",
+            "vm_pu": "float"
+        }
+    },
+    "bus319": {
+        "input": {},
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float",
+            "vm_pu": "float"
+        }
+    },
+    "bus32": {
+        "input": {},
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float",
+            "vm_pu": "float"
+        }
+    },
+    "bus320": {
+        "input": {},
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float",
+            "vm_pu": "float"
+        }
+    },
+    "bus33": {
+        "input": {},
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float",
+            "vm_pu": "float"
+        }
+    },
+    "bus34": {
+        "input": {},
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float",
+            "vm_pu": "float"
+        }
+    },
+    "bus35": {
+        "input": {},
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float",
+            "vm_pu": "float"
+        }
+    },
+    "bus36": {
+        "input": {},
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float",
+            "vm_pu": "float"
+        }
+    },
+    "bus37": {
+        "input": {},
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float",
+            "vm_pu": "float"
+        }
+    },
+    "bus38": {
+        "input": {},
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float",
+            "vm_pu": "float"
+        }
+    },
+    "bus39": {
+        "input": {},
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float",
+            "vm_pu": "float"
+        }
+    },
+    "bus4": {
+        "input": {},
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float",
+            "vm_pu": "float"
+        }
+    },
+    "bus40": {
+        "input": {},
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float",
+            "vm_pu": "float"
+        }
+    },
+    "bus41": {
+        "input": {},
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float",
+            "vm_pu": "float"
+        }
+    },
+    "bus42": {
+        "input": {},
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float",
+            "vm_pu": "float"
+        }
+    },
+    "bus43": {
+        "input": {},
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float",
+            "vm_pu": "float"
+        }
+    },
+    "bus44": {
+        "input": {},
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float",
+            "vm_pu": "float"
+        }
+    },
+    "bus45": {
+        "input": {},
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float",
+            "vm_pu": "float"
+        }
+    },
+    "bus46": {
+        "input": {},
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float",
+            "vm_pu": "float"
+        }
+    },
+    "bus47": {
+        "input": {},
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float",
+            "vm_pu": "float"
+        }
+    },
+    "bus48": {
+        "input": {},
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float",
+            "vm_pu": "float"
+        }
+    },
+    "bus49": {
+        "input": {},
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float",
+            "vm_pu": "float"
+        }
+    },
+    "bus5": {
+        "input": {},
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float",
+            "vm_pu": "float"
+        }
+    },
+    "bus50": {
+        "input": {},
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float",
+            "vm_pu": "float"
+        }
+    },
+    "bus51": {
+        "input": {},
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float",
+            "vm_pu": "float"
+        }
+    },
+    "bus52": {
+        "input": {},
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float",
+            "vm_pu": "float"
+        }
+    },
+    "bus53": {
+        "input": {},
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float",
+            "vm_pu": "float"
+        }
+    },
+    "bus54": {
+        "input": {},
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float",
+            "vm_pu": "float"
+        }
+    },
+    "bus55": {
+        "input": {},
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float",
+            "vm_pu": "float"
+        }
+    },
+    "bus56": {
+        "input": {},
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float",
+            "vm_pu": "float"
+        }
+    },
+    "bus57": {
+        "input": {},
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float",
+            "vm_pu": "float"
+        }
+    },
+    "bus58": {
+        "input": {},
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float",
+            "vm_pu": "float"
+        }
+    },
+    "bus6": {
+        "input": {},
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float",
+            "vm_pu": "float"
+        }
+    },
+    "bus64": {
+        "input": {},
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float",
+            "vm_pu": "float"
+        }
+    },
+    "bus65": {
+        "input": {},
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float",
+            "vm_pu": "float"
+        }
+    },
+    "bus7": {
+        "input": {},
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float",
+            "vm_pu": "float"
+        }
+    },
+    "bus71": {
+        "input": {},
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float",
+            "vm_pu": "float"
+        }
+    },
+    "bus72": {
+        "input": {},
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float",
+            "vm_pu": "float"
+        }
+    },
+    "bus73": {
+        "input": {},
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float",
+            "vm_pu": "float"
+        }
+    },
+    "bus74": {
+        "input": {},
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float",
+            "vm_pu": "float"
+        }
+    },
+    "bus75": {
+        "input": {},
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float",
+            "vm_pu": "float"
+        }
+    },
+    "bus76": {
+        "input": {},
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float",
+            "vm_pu": "float"
+        }
+    },
+    "bus77": {
+        "input": {},
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float",
+            "vm_pu": "float"
+        }
+    },
+    "bus78": {
+        "input": {},
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float",
+            "vm_pu": "float"
+        }
+    },
+    "bus79": {
+        "input": {},
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float",
+            "vm_pu": "float"
+        }
+    },
+    "bus8": {
+        "input": {},
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float",
+            "vm_pu": "float"
+        }
+    },
+    "bus80": {
+        "input": {},
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float",
+            "vm_pu": "float"
+        }
+    },
+    "bus81": {
+        "input": {},
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float",
+            "vm_pu": "float"
+        }
+    },
+    "bus82": {
+        "input": {},
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float",
+            "vm_pu": "float"
+        }
+    },
+    "bus83": {
+        "input": {},
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float",
+            "vm_pu": "float"
+        }
+    },
+    "bus84": {
+        "input": {},
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float",
+            "vm_pu": "float"
+        }
+    },
+    "bus85": {
+        "input": {},
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float",
+            "vm_pu": "float"
+        }
+    },
+    "bus86": {
+        "input": {},
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float",
+            "vm_pu": "float"
+        }
+    },
+    "bus94": {
+        "input": {},
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float",
+            "vm_pu": "float"
+        }
+    },
+    "bus95": {
+        "input": {},
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float",
+            "vm_pu": "float"
+        }
+    },
+    "bus98": {
+        "input": {},
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float",
+            "vm_pu": "float"
+        }
+    },
+    "line0": {
+        "input": {
+            "df": "float"
+        },
+        "output": {
+            "i_ka": "float",
+            "loading_percent": "float",
+            "pl_kw": "float",
+            "ql_kvar": "float"
+        }
+    },
+    "line1": {
+        "input": {
+            "df": "float"
+        },
+        "output": {
+            "i_ka": "float",
+            "loading_percent": "float",
+            "pl_kw": "float",
+            "ql_kvar": "float"
+        }
+    },
+    "line10": {
+        "input": {
+            "df": "float"
+        },
+        "output": {
+            "i_ka": "float",
+            "loading_percent": "float",
+            "pl_kw": "float",
+            "ql_kvar": "float"
+        }
+    },
+    "line100": {
+        "input": {
+            "df": "float"
+        },
+        "output": {
+            "i_ka": "float",
+            "loading_percent": "float",
+            "pl_kw": "float",
+            "ql_kvar": "float"
+        }
+    },
+    "line101": {
+        "input": {
+            "df": "float"
+        },
+        "output": {
+            "i_ka": "float",
+            "loading_percent": "float",
+            "pl_kw": "float",
+            "ql_kvar": "float"
+        }
+    },
+    "line102": {
+        "input": {
+            "df": "float"
+        },
+        "output": {
+            "i_ka": "float",
+            "loading_percent": "float",
+            "pl_kw": "float",
+            "ql_kvar": "float"
+        }
+    },
+    "line103": {
+        "input": {
+            "df": "float"
+        },
+        "output": {
+            "i_ka": "float",
+            "loading_percent": "float",
+            "pl_kw": "float",
+            "ql_kvar": "float"
+        }
+    },
+    "line104": {
+        "input": {
+            "df": "float"
+        },
+        "output": {
+            "i_ka": "float",
+            "loading_percent": "float",
+            "pl_kw": "float",
+            "ql_kvar": "float"
+        }
+    },
+    "line105": {
+        "input": {
+            "df": "float"
+        },
+        "output": {
+            "i_ka": "float",
+            "loading_percent": "float",
+            "pl_kw": "float",
+            "ql_kvar": "float"
+        }
+    },
+    "line106": {
+        "input": {
+            "df": "float"
+        },
+        "output": {
+            "i_ka": "float",
+            "loading_percent": "float",
+            "pl_kw": "float",
+            "ql_kvar": "float"
+        }
+    },
+    "line107": {
+        "input": {
+            "df": "float"
+        },
+        "output": {
+            "i_ka": "float",
+            "loading_percent": "float",
+            "pl_kw": "float",
+            "ql_kvar": "float"
+        }
+    },
+    "line108": {
+        "input": {
+            "df": "float"
+        },
+        "output": {
+            "i_ka": "float",
+            "loading_percent": "float",
+            "pl_kw": "float",
+            "ql_kvar": "float"
+        }
+    },
+    "line109": {
+        "input": {
+            "df": "float"
+        },
+        "output": {
+            "i_ka": "float",
+            "loading_percent": "float",
+            "pl_kw": "float",
+            "ql_kvar": "float"
+        }
+    },
+    "line11": {
+        "input": {
+            "df": "float"
+        },
+        "output": {
+            "i_ka": "float",
+            "loading_percent": "float",
+            "pl_kw": "float",
+            "ql_kvar": "float"
+        }
+    },
+    "line110": {
+        "input": {
+            "df": "float"
+        },
+        "output": {
+            "i_ka": "float",
+            "loading_percent": "float",
+            "pl_kw": "float",
+            "ql_kvar": "float"
+        }
+    },
+    "line111": {
+        "input": {
+            "df": "float"
+        },
+        "output": {
+            "i_ka": "float",
+            "loading_percent": "float",
+            "pl_kw": "float",
+            "ql_kvar": "float"
+        }
+    },
+    "line112": {
+        "input": {
+            "df": "float"
+        },
+        "output": {
+            "i_ka": "float",
+            "loading_percent": "float",
+            "pl_kw": "float",
+            "ql_kvar": "float"
+        }
+    },
+    "line113": {
+        "input": {
+            "df": "float"
+        },
+        "output": {
+            "i_ka": "float",
+            "loading_percent": "float",
+            "pl_kw": "float",
+            "ql_kvar": "float"
+        }
+    },
+    "line114": {
+        "input": {
+            "df": "float"
+        },
+        "output": {
+            "i_ka": "float",
+            "loading_percent": "float",
+            "pl_kw": "float",
+            "ql_kvar": "float"
+        }
+    },
+    "line116": {
+        "input": {
+            "df": "float"
+        },
+        "output": {
+            "i_ka": "float",
+            "loading_percent": "float",
+            "pl_kw": "float",
+            "ql_kvar": "float"
+        }
+    },
+    "line117": {
+        "input": {
+            "df": "float"
+        },
+        "output": {
+            "i_ka": "float",
+            "loading_percent": "float",
+            "pl_kw": "float",
+            "ql_kvar": "float"
+        }
+    },
+    "line118": {
+        "input": {
+            "df": "float"
+        },
+        "output": {
+            "i_ka": "float",
+            "loading_percent": "float",
+            "pl_kw": "float",
+            "ql_kvar": "float"
+        }
+    },
+    "line119": {
+        "input": {
+            "df": "float"
+        },
+        "output": {
+            "i_ka": "float",
+            "loading_percent": "float",
+            "pl_kw": "float",
+            "ql_kvar": "float"
+        }
+    },
+    "line12": {
+        "input": {
+            "df": "float"
+        },
+        "output": {
+            "i_ka": "float",
+            "loading_percent": "float",
+            "pl_kw": "float",
+            "ql_kvar": "float"
+        }
+    },
+    "line120": {
+        "input": {
+            "df": "float"
+        },
+        "output": {
+            "i_ka": "float",
+            "loading_percent": "float",
+            "pl_kw": "float",
+            "ql_kvar": "float"
+        }
+    },
+    "line121": {
+        "input": {
+            "df": "float"
+        },
+        "output": {
+            "i_ka": "float",
+            "loading_percent": "float",
+            "pl_kw": "float",
+            "ql_kvar": "float"
+        }
+    },
+    "line122": {
+        "input": {
+            "df": "float"
+        },
+        "output": {
+            "i_ka": "float",
+            "loading_percent": "float",
+            "pl_kw": "float",
+            "ql_kvar": "float"
+        }
+    },
+    "line123": {
+        "input": {
+            "df": "float"
+        },
+        "output": {
+            "i_ka": "float",
+            "loading_percent": "float",
+            "pl_kw": "float",
+            "ql_kvar": "float"
+        }
+    },
+    "line124": {
+        "input": {
+            "df": "float"
+        },
+        "output": {
+            "i_ka": "float",
+            "loading_percent": "float",
+            "pl_kw": "float",
+            "ql_kvar": "float"
+        }
+    },
+    "line125": {
+        "input": {
+            "df": "float"
+        },
+        "output": {
+            "i_ka": "float",
+            "loading_percent": "float",
+            "pl_kw": "float",
+            "ql_kvar": "float"
+        }
+    },
+    "line126": {
+        "input": {
+            "df": "float"
+        },
+        "output": {
+            "i_ka": "float",
+            "loading_percent": "float",
+            "pl_kw": "float",
+            "ql_kvar": "float"
+        }
+    },
+    "line127": {
+        "input": {
+            "df": "float"
+        },
+        "output": {
+            "i_ka": "float",
+            "loading_percent": "float",
+            "pl_kw": "float",
+            "ql_kvar": "float"
+        }
+    },
+    "line128": {
+        "input": {
+            "df": "float"
+        },
+        "output": {
+            "i_ka": "float",
+            "loading_percent": "float",
+            "pl_kw": "float",
+            "ql_kvar": "float"
+        }
+    },
+    "line129": {
+        "input": {
+            "df": "float"
+        },
+        "output": {
+            "i_ka": "float",
+            "loading_percent": "float",
+            "pl_kw": "float",
+            "ql_kvar": "float"
+        }
+    },
+    "line130": {
+        "input": {
+            "df": "float"
+        },
+        "output": {
+            "i_ka": "float",
+            "loading_percent": "float",
+            "pl_kw": "float",
+            "ql_kvar": "float"
+        }
+    },
+    "line131": {
+        "input": {
+            "df": "float"
+        },
+        "output": {
+            "i_ka": "float",
+            "loading_percent": "float",
+            "pl_kw": "float",
+            "ql_kvar": "float"
+        }
+    },
+    "line132": {
+        "input": {
+            "df": "float"
+        },
+        "output": {
+            "i_ka": "float",
+            "loading_percent": "float",
+            "pl_kw": "float",
+            "ql_kvar": "float"
+        }
+    },
+    "line133": {
+        "input": {
+            "df": "float"
+        },
+        "output": {
+            "i_ka": "float",
+            "loading_percent": "float",
+            "pl_kw": "float",
+            "ql_kvar": "float"
+        }
+    },
+    "line134": {
+        "input": {
+            "df": "float"
+        },
+        "output": {
+            "i_ka": "float",
+            "loading_percent": "float",
+            "pl_kw": "float",
+            "ql_kvar": "float"
+        }
+    },
+    "line135": {
+        "input": {
+            "df": "float"
+        },
+        "output": {
+            "i_ka": "float",
+            "loading_percent": "float",
+            "pl_kw": "float",
+            "ql_kvar": "float"
+        }
+    },
+    "line136": {
+        "input": {
+            "df": "float"
+        },
+        "output": {
+            "i_ka": "float",
+            "loading_percent": "float",
+            "pl_kw": "float",
+            "ql_kvar": "float"
+        }
+    },
+    "line137": {
+        "input": {
+            "df": "float"
+        },
+        "output": {
+            "i_ka": "float",
+            "loading_percent": "float",
+            "pl_kw": "float",
+            "ql_kvar": "float"
+        }
+    },
+    "line138": {
+        "input": {
+            "df": "float"
+        },
+        "output": {
+            "i_ka": "float",
+            "loading_percent": "float",
+            "pl_kw": "float",
+            "ql_kvar": "float"
+        }
+    },
+    "line139": {
+        "input": {
+            "df": "float"
+        },
+        "output": {
+            "i_ka": "float",
+            "loading_percent": "float",
+            "pl_kw": "float",
+            "ql_kvar": "float"
+        }
+    },
+    "line14": {
+        "input": {
+            "df": "float"
+        },
+        "output": {
+            "i_ka": "float",
+            "loading_percent": "float",
+            "pl_kw": "float",
+            "ql_kvar": "float"
+        }
+    },
+    "line140": {
+        "input": {
+            "df": "float"
+        },
+        "output": {
+            "i_ka": "float",
+            "loading_percent": "float",
+            "pl_kw": "float",
+            "ql_kvar": "float"
+        }
+    },
+    "line141": {
+        "input": {
+            "df": "float"
+        },
+        "output": {
+            "i_ka": "float",
+            "loading_percent": "float",
+            "pl_kw": "float",
+            "ql_kvar": "float"
+        }
+    },
+    "line142": {
+        "input": {
+            "df": "float"
+        },
+        "output": {
+            "i_ka": "float",
+            "loading_percent": "float",
+            "pl_kw": "float",
+            "ql_kvar": "float"
+        }
+    },
+    "line143": {
+        "input": {
+            "df": "float"
+        },
+        "output": {
+            "i_ka": "float",
+            "loading_percent": "float",
+            "pl_kw": "float",
+            "ql_kvar": "float"
+        }
+    },
+    "line144": {
+        "input": {
+            "df": "float"
+        },
+        "output": {
+            "i_ka": "float",
+            "loading_percent": "float",
+            "pl_kw": "float",
+            "ql_kvar": "float"
+        }
+    },
+    "line145": {
+        "input": {
+            "df": "float"
+        },
+        "output": {
+            "i_ka": "float",
+            "loading_percent": "float",
+            "pl_kw": "float",
+            "ql_kvar": "float"
+        }
+    },
+    "line146": {
+        "input": {
+            "df": "float"
+        },
+        "output": {
+            "i_ka": "float",
+            "loading_percent": "float",
+            "pl_kw": "float",
+            "ql_kvar": "float"
+        }
+    },
+    "line147": {
+        "input": {
+            "df": "float"
+        },
+        "output": {
+            "i_ka": "float",
+            "loading_percent": "float",
+            "pl_kw": "float",
+            "ql_kvar": "float"
+        }
+    },
+    "line148": {
+        "input": {
+            "df": "float"
+        },
+        "output": {
+            "i_ka": "float",
+            "loading_percent": "float",
+            "pl_kw": "float",
+            "ql_kvar": "float"
+        }
+    },
+    "line149": {
+        "input": {
+            "df": "float"
+        },
+        "output": {
+            "i_ka": "float",
+            "loading_percent": "float",
+            "pl_kw": "float",
+            "ql_kvar": "float"
+        }
+    },
+    "line15": {
+        "input": {
+            "df": "float"
+        },
+        "output": {
+            "i_ka": "float",
+            "loading_percent": "float",
+            "pl_kw": "float",
+            "ql_kvar": "float"
+        }
+    },
+    "line150": {
+        "input": {
+            "df": "float"
+        },
+        "output": {
+            "i_ka": "float",
+            "loading_percent": "float",
+            "pl_kw": "float",
+            "ql_kvar": "float"
+        }
+    },
+    "line151": {
+        "input": {
+            "df": "float"
+        },
+        "output": {
+            "i_ka": "float",
+            "loading_percent": "float",
+            "pl_kw": "float",
+            "ql_kvar": "float"
+        }
+    },
+    "line152": {
+        "input": {
+            "df": "float"
+        },
+        "output": {
+            "i_ka": "float",
+            "loading_percent": "float",
+            "pl_kw": "float",
+            "ql_kvar": "float"
+        }
+    },
+    "line153": {
+        "input": {
+            "df": "float"
+        },
+        "output": {
+            "i_ka": "float",
+            "loading_percent": "float",
+            "pl_kw": "float",
+            "ql_kvar": "float"
+        }
+    },
+    "line154": {
+        "input": {
+            "df": "float"
+        },
+        "output": {
+            "i_ka": "float",
+            "loading_percent": "float",
+            "pl_kw": "float",
+            "ql_kvar": "float"
+        }
+    },
+    "line156": {
+        "input": {
+            "df": "float"
+        },
+        "output": {
+            "i_ka": "float",
+            "loading_percent": "float",
+            "pl_kw": "float",
+            "ql_kvar": "float"
+        }
+    },
+    "line157": {
+        "input": {
+            "df": "float"
+        },
+        "output": {
+            "i_ka": "float",
+            "loading_percent": "float",
+            "pl_kw": "float",
+            "ql_kvar": "float"
+        }
+    },
+    "line158": {
+        "input": {
+            "df": "float"
+        },
+        "output": {
+            "i_ka": "float",
+            "loading_percent": "float",
+            "pl_kw": "float",
+            "ql_kvar": "float"
+        }
+    },
+    "line16": {
+        "input": {
+            "df": "float"
+        },
+        "output": {
+            "i_ka": "float",
+            "loading_percent": "float",
+            "pl_kw": "float",
+            "ql_kvar": "float"
+        }
+    },
+    "line161": {
+        "input": {
+            "df": "float"
+        },
+        "output": {
+            "i_ka": "float",
+            "loading_percent": "float",
+            "pl_kw": "float",
+            "ql_kvar": "float"
+        }
+    },
+    "line162": {
+        "input": {
+            "df": "float"
+        },
+        "output": {
+            "i_ka": "float",
+            "loading_percent": "float",
+            "pl_kw": "float",
+            "ql_kvar": "float"
+        }
+    },
+    "line163": {
+        "input": {
+            "df": "float"
+        },
+        "output": {
+            "i_ka": "float",
+            "loading_percent": "float",
+            "pl_kw": "float",
+            "ql_kvar": "float"
+        }
+    },
+    "line164": {
+        "input": {
+            "df": "float"
+        },
+        "output": {
+            "i_ka": "float",
+            "loading_percent": "float",
+            "pl_kw": "float",
+            "ql_kvar": "float"
+        }
+    },
+    "line165": {
+        "input": {
+            "df": "float"
+        },
+        "output": {
+            "i_ka": "float",
+            "loading_percent": "float",
+            "pl_kw": "float",
+            "ql_kvar": "float"
+        }
+    },
+    "line167": {
+        "input": {
+            "df": "float"
+        },
+        "output": {
+            "i_ka": "float",
+            "loading_percent": "float",
+            "pl_kw": "float",
+            "ql_kvar": "float"
+        }
+    },
+    "line168": {
+        "input": {
+            "df": "float"
+        },
+        "output": {
+            "i_ka": "float",
+            "loading_percent": "float",
+            "pl_kw": "float",
+            "ql_kvar": "float"
+        }
+    },
+    "line169": {
+        "input": {
+            "df": "float"
+        },
+        "output": {
+            "i_ka": "float",
+            "loading_percent": "float",
+            "pl_kw": "float",
+            "ql_kvar": "float"
+        }
+    },
+    "line17": {
+        "input": {
+            "df": "float"
+        },
+        "output": {
+            "i_ka": "float",
+            "loading_percent": "float",
+            "pl_kw": "float",
+            "ql_kvar": "float"
+        }
+    },
+    "line170": {
+        "input": {
+            "df": "float"
+        },
+        "output": {
+            "i_ka": "float",
+            "loading_percent": "float",
+            "pl_kw": "float",
+            "ql_kvar": "float"
+        }
+    },
+    "line171": {
+        "input": {
+            "df": "float"
+        },
+        "output": {
+            "i_ka": "float",
+            "loading_percent": "float",
+            "pl_kw": "float",
+            "ql_kvar": "float"
+        }
+    },
+    "line172": {
+        "input": {
+            "df": "float"
+        },
+        "output": {
+            "i_ka": "float",
+            "loading_percent": "float",
+            "pl_kw": "float",
+            "ql_kvar": "float"
+        }
+    },
+    "line173": {
+        "input": {
+            "df": "float"
+        },
+        "output": {
+            "i_ka": "float",
+            "loading_percent": "float",
+            "pl_kw": "float",
+            "ql_kvar": "float"
+        }
+    },
+    "line174": {
+        "input": {
+            "df": "float"
+        },
+        "output": {
+            "i_ka": "float",
+            "loading_percent": "float",
+            "pl_kw": "float",
+            "ql_kvar": "float"
+        }
+    },
+    "line175": {
+        "input": {
+            "df": "float"
+        },
+        "output": {
+            "i_ka": "float",
+            "loading_percent": "float",
+            "pl_kw": "float",
+            "ql_kvar": "float"
+        }
+    },
+    "line177": {
+        "input": {
+            "df": "float"
+        },
+        "output": {
+            "i_ka": "float",
+            "loading_percent": "float",
+            "pl_kw": "float",
+            "ql_kvar": "float"
+        }
+    },
+    "line178": {
+        "input": {
+            "df": "float"
+        },
+        "output": {
+            "i_ka": "float",
+            "loading_percent": "float",
+            "pl_kw": "float",
+            "ql_kvar": "float"
+        }
+    },
+    "line179": {
+        "input": {
+            "df": "float"
+        },
+        "output": {
+            "i_ka": "float",
+            "loading_percent": "float",
+            "pl_kw": "float",
+            "ql_kvar": "float"
+        }
+    },
+    "line18": {
+        "input": {
+            "df": "float"
+        },
+        "output": {
+            "i_ka": "float",
+            "loading_percent": "float",
+            "pl_kw": "float",
+            "ql_kvar": "float"
+        }
+    },
+    "line180": {
+        "input": {
+            "df": "float"
+        },
+        "output": {
+            "i_ka": "float",
+            "loading_percent": "float",
+            "pl_kw": "float",
+            "ql_kvar": "float"
+        }
+    },
+    "line181": {
+        "input": {
+            "df": "float"
+        },
+        "output": {
+            "i_ka": "float",
+            "loading_percent": "float",
+            "pl_kw": "float",
+            "ql_kvar": "float"
+        }
+    },
+    "line182": {
+        "input": {
+            "df": "float"
+        },
+        "output": {
+            "i_ka": "float",
+            "loading_percent": "float",
+            "pl_kw": "float",
+            "ql_kvar": "float"
+        }
+    },
+    "line183": {
+        "input": {
+            "df": "float"
+        },
+        "output": {
+            "i_ka": "float",
+            "loading_percent": "float",
+            "pl_kw": "float",
+            "ql_kvar": "float"
+        }
+    },
+    "line184": {
+        "input": {
+            "df": "float"
+        },
+        "output": {
+            "i_ka": "float",
+            "loading_percent": "float",
+            "pl_kw": "float",
+            "ql_kvar": "float"
+        }
+    },
+    "line185": {
+        "input": {
+            "df": "float"
+        },
+        "output": {
+            "i_ka": "float",
+            "loading_percent": "float",
+            "pl_kw": "float",
+            "ql_kvar": "float"
+        }
+    },
+    "line186": {
+        "input": {
+            "df": "float"
+        },
+        "output": {
+            "i_ka": "float",
+            "loading_percent": "float",
+            "pl_kw": "float",
+            "ql_kvar": "float"
+        }
+    },
+    "line187": {
+        "input": {
+            "df": "float"
+        },
+        "output": {
+            "i_ka": "float",
+            "loading_percent": "float",
+            "pl_kw": "float",
+            "ql_kvar": "float"
+        }
+    },
+    "line188": {
+        "input": {
+            "df": "float"
+        },
+        "output": {
+            "i_ka": "float",
+            "loading_percent": "float",
+            "pl_kw": "float",
+            "ql_kvar": "float"
+        }
+    },
+    "line189": {
+        "input": {
+            "df": "float"
+        },
+        "output": {
+            "i_ka": "float",
+            "loading_percent": "float",
+            "pl_kw": "float",
+            "ql_kvar": "float"
+        }
+    },
+    "line190": {
+        "input": {
+            "df": "float"
+        },
+        "output": {
+            "i_ka": "float",
+            "loading_percent": "float",
+            "pl_kw": "float",
+            "ql_kvar": "float"
+        }
+    },
+    "line191": {
+        "input": {
+            "df": "float"
+        },
+        "output": {
+            "i_ka": "float",
+            "loading_percent": "float",
+            "pl_kw": "float",
+            "ql_kvar": "float"
+        }
+    },
+    "line192": {
+        "input": {
+            "df": "float"
+        },
+        "output": {
+            "i_ka": "float",
+            "loading_percent": "float",
+            "pl_kw": "float",
+            "ql_kvar": "float"
+        }
+    },
+    "line193": {
+        "input": {
+            "df": "float"
+        },
+        "output": {
+            "i_ka": "float",
+            "loading_percent": "float",
+            "pl_kw": "float",
+            "ql_kvar": "float"
+        }
+    },
+    "line194": {
+        "input": {
+            "df": "float"
+        },
+        "output": {
+            "i_ka": "float",
+            "loading_percent": "float",
+            "pl_kw": "float",
+            "ql_kvar": "float"
+        }
+    },
+    "line2": {
+        "input": {
+            "df": "float"
+        },
+        "output": {
+            "i_ka": "float",
+            "loading_percent": "float",
+            "pl_kw": "float",
+            "ql_kvar": "float"
+        }
+    },
+    "line20": {
+        "input": {
+            "df": "float"
+        },
+        "output": {
+            "i_ka": "float",
+            "loading_percent": "float",
+            "pl_kw": "float",
+            "ql_kvar": "float"
+        }
+    },
+    "line21": {
+        "input": {
+            "df": "float"
+        },
+        "output": {
+            "i_ka": "float",
+            "loading_percent": "float",
+            "pl_kw": "float",
+            "ql_kvar": "float"
+        }
+    },
+    "line22": {
+        "input": {
+            "df": "float"
+        },
+        "output": {
+            "i_ka": "float",
+            "loading_percent": "float",
+            "pl_kw": "float",
+            "ql_kvar": "float"
+        }
+    },
+    "line23": {
+        "input": {
+            "df": "float"
+        },
+        "output": {
+            "i_ka": "float",
+            "loading_percent": "float",
+            "pl_kw": "float",
+            "ql_kvar": "float"
+        }
+    },
+    "line24": {
+        "input": {
+            "df": "float"
+        },
+        "output": {
+            "i_ka": "float",
+            "loading_percent": "float",
+            "pl_kw": "float",
+            "ql_kvar": "float"
+        }
+    },
+    "line25": {
+        "input": {
+            "df": "float"
+        },
+        "output": {
+            "i_ka": "float",
+            "loading_percent": "float",
+            "pl_kw": "float",
+            "ql_kvar": "float"
+        }
+    },
+    "line26": {
+        "input": {
+            "df": "float"
+        },
+        "output": {
+            "i_ka": "float",
+            "loading_percent": "float",
+            "pl_kw": "float",
+            "ql_kvar": "float"
+        }
+    },
+    "line27": {
+        "input": {
+            "df": "float"
+        },
+        "output": {
+            "i_ka": "float",
+            "loading_percent": "float",
+            "pl_kw": "float",
+            "ql_kvar": "float"
+        }
+    },
+    "line28": {
+        "input": {
+            "df": "float"
+        },
+        "output": {
+            "i_ka": "float",
+            "loading_percent": "float",
+            "pl_kw": "float",
+            "ql_kvar": "float"
+        }
+    },
+    "line29": {
+        "input": {
+            "df": "float"
+        },
+        "output": {
+            "i_ka": "float",
+            "loading_percent": "float",
+            "pl_kw": "float",
+            "ql_kvar": "float"
+        }
+    },
+    "line3": {
+        "input": {
+            "df": "float"
+        },
+        "output": {
+            "i_ka": "float",
+            "loading_percent": "float",
+            "pl_kw": "float",
+            "ql_kvar": "float"
+        }
+    },
+    "line30": {
+        "input": {
+            "df": "float"
+        },
+        "output": {
+            "i_ka": "float",
+            "loading_percent": "float",
+            "pl_kw": "float",
+            "ql_kvar": "float"
+        }
+    },
+    "line31": {
+        "input": {
+            "df": "float"
+        },
+        "output": {
+            "i_ka": "float",
+            "loading_percent": "float",
+            "pl_kw": "float",
+            "ql_kvar": "float"
+        }
+    },
+    "line32": {
+        "input": {
+            "df": "float"
+        },
+        "output": {
+            "i_ka": "float",
+            "loading_percent": "float",
+            "pl_kw": "float",
+            "ql_kvar": "float"
+        }
+    },
+    "line34": {
+        "input": {
+            "df": "float"
+        },
+        "output": {
+            "i_ka": "float",
+            "loading_percent": "float",
+            "pl_kw": "float",
+            "ql_kvar": "float"
+        }
+    },
+    "line35": {
+        "input": {
+            "df": "float"
+        },
+        "output": {
+            "i_ka": "float",
+            "loading_percent": "float",
+            "pl_kw": "float",
+            "ql_kvar": "float"
+        }
+    },
+    "line36": {
+        "input": {
+            "df": "float"
+        },
+        "output": {
+            "i_ka": "float",
+            "loading_percent": "float",
+            "pl_kw": "float",
+            "ql_kvar": "float"
+        }
+    },
+    "line37": {
+        "input": {
+            "df": "float"
+        },
+        "output": {
+            "i_ka": "float",
+            "loading_percent": "float",
+            "pl_kw": "float",
+            "ql_kvar": "float"
+        }
+    },
+    "line38": {
+        "input": {
+            "df": "float"
+        },
+        "output": {
+            "i_ka": "float",
+            "loading_percent": "float",
+            "pl_kw": "float",
+            "ql_kvar": "float"
+        }
+    },
+    "line39": {
+        "input": {
+            "df": "float"
+        },
+        "output": {
+            "i_ka": "float",
+            "loading_percent": "float",
+            "pl_kw": "float",
+            "ql_kvar": "float"
+        }
+    },
+    "line4": {
+        "input": {
+            "df": "float"
+        },
+        "output": {
+            "i_ka": "float",
+            "loading_percent": "float",
+            "pl_kw": "float",
+            "ql_kvar": "float"
+        }
+    },
+    "line40": {
+        "input": {
+            "df": "float"
+        },
+        "output": {
+            "i_ka": "float",
+            "loading_percent": "float",
+            "pl_kw": "float",
+            "ql_kvar": "float"
+        }
+    },
+    "line41": {
+        "input": {
+            "df": "float"
+        },
+        "output": {
+            "i_ka": "float",
+            "loading_percent": "float",
+            "pl_kw": "float",
+            "ql_kvar": "float"
+        }
+    },
+    "line42": {
+        "input": {
+            "df": "float"
+        },
+        "output": {
+            "i_ka": "float",
+            "loading_percent": "float",
+            "pl_kw": "float",
+            "ql_kvar": "float"
+        }
+    },
+    "line43": {
+        "input": {
+            "df": "float"
+        },
+        "output": {
+            "i_ka": "float",
+            "loading_percent": "float",
+            "pl_kw": "float",
+            "ql_kvar": "float"
+        }
+    },
+    "line44": {
+        "input": {
+            "df": "float"
+        },
+        "output": {
+            "i_ka": "float",
+            "loading_percent": "float",
+            "pl_kw": "float",
+            "ql_kvar": "float"
+        }
+    },
+    "line45": {
+        "input": {
+            "df": "float"
+        },
+        "output": {
+            "i_ka": "float",
+            "loading_percent": "float",
+            "pl_kw": "float",
+            "ql_kvar": "float"
+        }
+    },
+    "line46": {
+        "input": {
+            "df": "float"
+        },
+        "output": {
+            "i_ka": "float",
+            "loading_percent": "float",
+            "pl_kw": "float",
+            "ql_kvar": "float"
+        }
+    },
+    "line47": {
+        "input": {
+            "df": "float"
+        },
+        "output": {
+            "i_ka": "float",
+            "loading_percent": "float",
+            "pl_kw": "float",
+            "ql_kvar": "float"
+        }
+    },
+    "line48": {
+        "input": {
+            "df": "float"
+        },
+        "output": {
+            "i_ka": "float",
+            "loading_percent": "float",
+            "pl_kw": "float",
+            "ql_kvar": "float"
+        }
+    },
+    "line49": {
+        "input": {
+            "df": "float"
+        },
+        "output": {
+            "i_ka": "float",
+            "loading_percent": "float",
+            "pl_kw": "float",
+            "ql_kvar": "float"
+        }
+    },
+    "line5": {
+        "input": {
+            "df": "float"
+        },
+        "output": {
+            "i_ka": "float",
+            "loading_percent": "float",
+            "pl_kw": "float",
+            "ql_kvar": "float"
+        }
+    },
+    "line50": {
+        "input": {
+            "df": "float"
+        },
+        "output": {
+            "i_ka": "float",
+            "loading_percent": "float",
+            "pl_kw": "float",
+            "ql_kvar": "float"
+        }
+    },
+    "line51": {
+        "input": {
+            "df": "float"
+        },
+        "output": {
+            "i_ka": "float",
+            "loading_percent": "float",
+            "pl_kw": "float",
+            "ql_kvar": "float"
+        }
+    },
+    "line52": {
+        "input": {
+            "df": "float"
+        },
+        "output": {
+            "i_ka": "float",
+            "loading_percent": "float",
+            "pl_kw": "float",
+            "ql_kvar": "float"
+        }
+    },
+    "line53": {
+        "input": {
+            "df": "float"
+        },
+        "output": {
+            "i_ka": "float",
+            "loading_percent": "float",
+            "pl_kw": "float",
+            "ql_kvar": "float"
+        }
+    },
+    "line54": {
+        "input": {
+            "df": "float"
+        },
+        "output": {
+            "i_ka": "float",
+            "loading_percent": "float",
+            "pl_kw": "float",
+            "ql_kvar": "float"
+        }
+    },
+    "line55": {
+        "input": {
+            "df": "float"
+        },
+        "output": {
+            "i_ka": "float",
+            "loading_percent": "float",
+            "pl_kw": "float",
+            "ql_kvar": "float"
+        }
+    },
+    "line56": {
+        "input": {
+            "df": "float"
+        },
+        "output": {
+            "i_ka": "float",
+            "loading_percent": "float",
+            "pl_kw": "float",
+            "ql_kvar": "float"
+        }
+    },
+    "line57": {
+        "input": {
+            "df": "float"
+        },
+        "output": {
+            "i_ka": "float",
+            "loading_percent": "float",
+            "pl_kw": "float",
+            "ql_kvar": "float"
+        }
+    },
+    "line58": {
+        "input": {
+            "df": "float"
+        },
+        "output": {
+            "i_ka": "float",
+            "loading_percent": "float",
+            "pl_kw": "float",
+            "ql_kvar": "float"
+        }
+    },
+    "line59": {
+        "input": {
+            "df": "float"
+        },
+        "output": {
+            "i_ka": "float",
+            "loading_percent": "float",
+            "pl_kw": "float",
+            "ql_kvar": "float"
+        }
+    },
+    "line6": {
+        "input": {
+            "df": "float"
+        },
+        "output": {
+            "i_ka": "float",
+            "loading_percent": "float",
+            "pl_kw": "float",
+            "ql_kvar": "float"
+        }
+    },
+    "line60": {
+        "input": {
+            "df": "float"
+        },
+        "output": {
+            "i_ka": "float",
+            "loading_percent": "float",
+            "pl_kw": "float",
+            "ql_kvar": "float"
+        }
+    },
+    "line61": {
+        "input": {
+            "df": "float"
+        },
+        "output": {
+            "i_ka": "float",
+            "loading_percent": "float",
+            "pl_kw": "float",
+            "ql_kvar": "float"
+        }
+    },
+    "line62": {
+        "input": {
+            "df": "float"
+        },
+        "output": {
+            "i_ka": "float",
+            "loading_percent": "float",
+            "pl_kw": "float",
+            "ql_kvar": "float"
+        }
+    },
+    "line63": {
+        "input": {
+            "df": "float"
+        },
+        "output": {
+            "i_ka": "float",
+            "loading_percent": "float",
+            "pl_kw": "float",
+            "ql_kvar": "float"
+        }
+    },
+    "line64": {
+        "input": {
+            "df": "float"
+        },
+        "output": {
+            "i_ka": "float",
+            "loading_percent": "float",
+            "pl_kw": "float",
+            "ql_kvar": "float"
+        }
+    },
+    "line65": {
+        "input": {
+            "df": "float"
+        },
+        "output": {
+            "i_ka": "float",
+            "loading_percent": "float",
+            "pl_kw": "float",
+            "ql_kvar": "float"
+        }
+    },
+    "line66": {
+        "input": {
+            "df": "float"
+        },
+        "output": {
+            "i_ka": "float",
+            "loading_percent": "float",
+            "pl_kw": "float",
+            "ql_kvar": "float"
+        }
+    },
+    "line67": {
+        "input": {
+            "df": "float"
+        },
+        "output": {
+            "i_ka": "float",
+            "loading_percent": "float",
+            "pl_kw": "float",
+            "ql_kvar": "float"
+        }
+    },
+    "line68": {
+        "input": {
+            "df": "float"
+        },
+        "output": {
+            "i_ka": "float",
+            "loading_percent": "float",
+            "pl_kw": "float",
+            "ql_kvar": "float"
+        }
+    },
+    "line69": {
+        "input": {
+            "df": "float"
+        },
+        "output": {
+            "i_ka": "float",
+            "loading_percent": "float",
+            "pl_kw": "float",
+            "ql_kvar": "float"
+        }
+    },
+    "line7": {
+        "input": {
+            "df": "float"
+        },
+        "output": {
+            "i_ka": "float",
+            "loading_percent": "float",
+            "pl_kw": "float",
+            "ql_kvar": "float"
+        }
+    },
+    "line70": {
+        "input": {
+            "df": "float"
+        },
+        "output": {
+            "i_ka": "float",
+            "loading_percent": "float",
+            "pl_kw": "float",
+            "ql_kvar": "float"
+        }
+    },
+    "line71": {
+        "input": {
+            "df": "float"
+        },
+        "output": {
+            "i_ka": "float",
+            "loading_percent": "float",
+            "pl_kw": "float",
+            "ql_kvar": "float"
+        }
+    },
+    "line72": {
+        "input": {
+            "df": "float"
+        },
+        "output": {
+            "i_ka": "float",
+            "loading_percent": "float",
+            "pl_kw": "float",
+            "ql_kvar": "float"
+        }
+    },
+    "line73": {
+        "input": {
+            "df": "float"
+        },
+        "output": {
+            "i_ka": "float",
+            "loading_percent": "float",
+            "pl_kw": "float",
+            "ql_kvar": "float"
+        }
+    },
+    "line74": {
+        "input": {
+            "df": "float"
+        },
+        "output": {
+            "i_ka": "float",
+            "loading_percent": "float",
+            "pl_kw": "float",
+            "ql_kvar": "float"
+        }
+    },
+    "line75": {
+        "input": {
+            "df": "float"
+        },
+        "output": {
+            "i_ka": "float",
+            "loading_percent": "float",
+            "pl_kw": "float",
+            "ql_kvar": "float"
+        }
+    },
+    "line76": {
+        "input": {
+            "df": "float"
+        },
+        "output": {
+            "i_ka": "float",
+            "loading_percent": "float",
+            "pl_kw": "float",
+            "ql_kvar": "float"
+        }
+    },
+    "line77": {
+        "input": {
+            "df": "float"
+        },
+        "output": {
+            "i_ka": "float",
+            "loading_percent": "float",
+            "pl_kw": "float",
+            "ql_kvar": "float"
+        }
+    },
+    "line78": {
+        "input": {
+            "df": "float"
+        },
+        "output": {
+            "i_ka": "float",
+            "loading_percent": "float",
+            "pl_kw": "float",
+            "ql_kvar": "float"
+        }
+    },
+    "line79": {
+        "input": {
+            "df": "float"
+        },
+        "output": {
+            "i_ka": "float",
+            "loading_percent": "float",
+            "pl_kw": "float",
+            "ql_kvar": "float"
+        }
+    },
+    "line8": {
+        "input": {
+            "df": "float"
+        },
+        "output": {
+            "i_ka": "float",
+            "loading_percent": "float",
+            "pl_kw": "float",
+            "ql_kvar": "float"
+        }
+    },
+    "line80": {
+        "input": {
+            "df": "float"
+        },
+        "output": {
+            "i_ka": "float",
+            "loading_percent": "float",
+            "pl_kw": "float",
+            "ql_kvar": "float"
+        }
+    },
+    "line81": {
+        "input": {
+            "df": "float"
+        },
+        "output": {
+            "i_ka": "float",
+            "loading_percent": "float",
+            "pl_kw": "float",
+            "ql_kvar": "float"
+        }
+    },
+    "line82": {
+        "input": {
+            "df": "float"
+        },
+        "output": {
+            "i_ka": "float",
+            "loading_percent": "float",
+            "pl_kw": "float",
+            "ql_kvar": "float"
+        }
+    },
+    "line85": {
+        "input": {
+            "df": "float"
+        },
+        "output": {
+            "i_ka": "float",
+            "loading_percent": "float",
+            "pl_kw": "float",
+            "ql_kvar": "float"
+        }
+    },
+    "line86": {
+        "input": {
+            "df": "float"
+        },
+        "output": {
+            "i_ka": "float",
+            "loading_percent": "float",
+            "pl_kw": "float",
+            "ql_kvar": "float"
+        }
+    },
+    "line87": {
+        "input": {
+            "df": "float"
+        },
+        "output": {
+            "i_ka": "float",
+            "loading_percent": "float",
+            "pl_kw": "float",
+            "ql_kvar": "float"
+        }
+    },
+    "line88": {
+        "input": {
+            "df": "float"
+        },
+        "output": {
+            "i_ka": "float",
+            "loading_percent": "float",
+            "pl_kw": "float",
+            "ql_kvar": "float"
+        }
+    },
+    "line90": {
+        "input": {
+            "df": "float"
+        },
+        "output": {
+            "i_ka": "float",
+            "loading_percent": "float",
+            "pl_kw": "float",
+            "ql_kvar": "float"
+        }
+    },
+    "line91": {
+        "input": {
+            "df": "float"
+        },
+        "output": {
+            "i_ka": "float",
+            "loading_percent": "float",
+            "pl_kw": "float",
+            "ql_kvar": "float"
+        }
+    },
+    "line92": {
+        "input": {
+            "df": "float"
+        },
+        "output": {
+            "i_ka": "float",
+            "loading_percent": "float",
+            "pl_kw": "float",
+            "ql_kvar": "float"
+        }
+    },
+    "line93": {
+        "input": {
+            "df": "float"
+        },
+        "output": {
+            "i_ka": "float",
+            "loading_percent": "float",
+            "pl_kw": "float",
+            "ql_kvar": "float"
+        }
+    },
+    "line94": {
+        "input": {
+            "df": "float"
+        },
+        "output": {
+            "i_ka": "float",
+            "loading_percent": "float",
+            "pl_kw": "float",
+            "ql_kvar": "float"
+        }
+    },
+    "line95": {
+        "input": {
+            "df": "float"
+        },
+        "output": {
+            "i_ka": "float",
+            "loading_percent": "float",
+            "pl_kw": "float",
+            "ql_kvar": "float"
+        }
+    },
+    "line96": {
+        "input": {
+            "df": "float"
+        },
+        "output": {
+            "i_ka": "float",
+            "loading_percent": "float",
+            "pl_kw": "float",
+            "ql_kvar": "float"
+        }
+    },
+    "line97": {
+        "input": {
+            "df": "float"
+        },
+        "output": {
+            "i_ka": "float",
+            "loading_percent": "float",
+            "pl_kw": "float",
+            "ql_kvar": "float"
+        }
+    },
+    "line98": {
+        "input": {
+            "df": "float"
+        },
+        "output": {
+            "i_ka": "float",
+            "loading_percent": "float",
+            "pl_kw": "float",
+            "ql_kvar": "float"
+        }
+    },
+    "line99": {
+        "input": {
+            "df": "float"
+        },
+        "output": {
+            "i_ka": "float",
+            "loading_percent": "float",
+            "pl_kw": "float",
+            "ql_kvar": "float"
+        }
+    },
+    "load0": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "load1": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "load10": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "load100": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "load101": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "load102": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "load103": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "load104": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "load105": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "load106": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "load107": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "load108": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "load109": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "load11": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "load110": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "load111": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "load112": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "load113": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "load114": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "load115": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "load116": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "load117": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "load118": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "load119": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "load12": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "load120": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "load121": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "load122": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "load123": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "load124": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "load125": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "load126": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "load127": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "load128": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "load129": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "load13": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "load130": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "load131": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "load132": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "load133": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "load134": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "load135": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "load136": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "load137": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "load138": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "load139": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "load14": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "load140": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "load141": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "load142": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "load143": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "load144": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "load145": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "load146": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "load15": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "load16": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "load17": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "load18": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "load19": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "load2": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "load20": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "load21": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "load22": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "load23": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "load24": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "load25": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "load26": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "load27": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "load28": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "load29": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "load3": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "load30": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "load31": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "load32": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "load33": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "load34": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "load35": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "load36": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "load37": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "load38": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "load39": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "load4": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "load40": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "load41": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "load42": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "load43": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "load44": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "load45": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "load46": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "load47": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "load48": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "load49": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "load5": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "load50": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "load51": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "load52": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "load53": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "load54": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "load55": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "load56": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "load57": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "load58": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "load59": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "load6": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "load60": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "load61": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "load62": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "load63": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "load64": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "load65": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "load66": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "load67": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "load68": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "load69": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "load7": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "load70": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "load71": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "load72": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "load73": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "load74": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "load75": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "load76": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "load77": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "load78": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "load79": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "load8": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "load80": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "load81": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "load82": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "load83": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "load84": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "load85": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "load86": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "load87": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "load88": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "load89": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "load9": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "load90": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "load91": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "load92": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "load93": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "load94": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "load95": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "load96": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "load97": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "load98": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "load99": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "sgen0": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "sgen1": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "sgen10": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "sgen100": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "sgen101": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "sgen102": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "sgen103": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "sgen104": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "sgen105": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "sgen106": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "sgen107": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "sgen108": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "sgen109": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "sgen11": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "sgen110": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "sgen111": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "sgen112": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "sgen113": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "sgen114": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "sgen115": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "sgen116": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "sgen117": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "sgen118": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "sgen119": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "sgen12": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "sgen120": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "sgen121": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "sgen122": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "sgen123": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "sgen124": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "sgen125": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "sgen126": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "sgen127": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "sgen128": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "sgen129": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "sgen13": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "sgen130": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "sgen131": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "sgen132": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "sgen133": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "sgen134": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "sgen135": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "sgen136": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "sgen137": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "sgen138": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "sgen139": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "sgen14": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "sgen140": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "sgen141": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "sgen142": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "sgen143": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "sgen144": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "sgen145": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "sgen146": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "sgen147": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "sgen148": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "sgen149": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "sgen15": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "sgen150": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "sgen151": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "sgen152": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "sgen153": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "sgen16": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "sgen17": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "sgen18": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "sgen19": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "sgen2": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "sgen20": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "sgen21": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "sgen22": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "sgen23": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "sgen24": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "sgen25": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "sgen26": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "sgen27": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "sgen28": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "sgen29": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "sgen3": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "sgen30": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "sgen31": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "sgen32": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "sgen33": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "sgen34": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "sgen35": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "sgen36": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "sgen37": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "sgen38": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "sgen39": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "sgen4": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "sgen40": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "sgen41": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "sgen42": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "sgen43": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "sgen44": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "sgen45": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "sgen46": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "sgen47": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "sgen48": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "sgen49": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "sgen5": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "sgen50": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "sgen51": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "sgen52": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "sgen53": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "sgen54": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "sgen55": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "sgen56": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "sgen57": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "sgen58": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "sgen59": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "sgen6": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "sgen60": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "sgen61": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "sgen62": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "sgen63": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "sgen64": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "sgen65": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "sgen66": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "sgen67": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "sgen68": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "sgen69": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "sgen7": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "sgen70": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "sgen71": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "sgen72": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "sgen73": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "sgen74": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "sgen75": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "sgen76": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "sgen77": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "sgen78": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "sgen79": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "sgen8": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "sgen80": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "sgen81": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "sgen82": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "sgen83": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "sgen84": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "sgen85": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "sgen86": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "sgen87": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "sgen88": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "sgen89": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "sgen9": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "sgen90": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "sgen91": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "sgen92": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "sgen93": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "sgen94": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "sgen95": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "sgen96": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "sgen97": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "sgen98": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "sgen99": {
+        "input": {
+            "scaling": "float"
+        },
+        "output": {
+            "p_kw": "float",
+            "q_kvar": "float"
+        }
+    },
+    "switch0": {
+        "input": {},
+        "output": {}
+    },
+    "switch1": {
+        "input": {},
+        "output": {}
+    },
+    "switch10": {
+        "input": {},
+        "output": {}
+    },
+    "switch100": {
+        "input": {},
+        "output": {}
+    },
+    "switch101": {
+        "input": {},
+        "output": {}
+    },
+    "switch102": {
+        "input": {},
+        "output": {}
+    },
+    "switch103": {
+        "input": {},
+        "output": {}
+    },
+    "switch104": {
+        "input": {},
+        "output": {}
+    },
+    "switch105": {
+        "input": {},
+        "output": {}
+    },
+    "switch106": {
+        "input": {},
+        "output": {}
+    },
+    "switch107": {
+        "input": {},
+        "output": {}
+    },
+    "switch108": {
+        "input": {},
+        "output": {}
+    },
+    "switch109": {
+        "input": {},
+        "output": {}
+    },
+    "switch11": {
+        "input": {},
+        "output": {}
+    },
+    "switch110": {
+        "input": {},
+        "output": {}
+    },
+    "switch111": {
+        "input": {},
+        "output": {}
+    },
+    "switch112": {
+        "input": {},
+        "output": {}
+    },
+    "switch113": {
+        "input": {},
+        "output": {}
+    },
+    "switch114": {
+        "input": {},
+        "output": {}
+    },
+    "switch115": {
+        "input": {},
+        "output": {}
+    },
+    "switch116": {
+        "input": {},
+        "output": {}
+    },
+    "switch117": {
+        "input": {},
+        "output": {}
+    },
+    "switch118": {
+        "input": {},
+        "output": {}
+    },
+    "switch119": {
+        "input": {},
+        "output": {}
+    },
+    "switch12": {
+        "input": {},
+        "output": {}
+    },
+    "switch120": {
+        "input": {},
+        "output": {}
+    },
+    "switch121": {
+        "input": {},
+        "output": {}
+    },
+    "switch122": {
+        "input": {},
+        "output": {}
+    },
+    "switch123": {
+        "input": {},
+        "output": {}
+    },
+    "switch124": {
+        "input": {},
+        "output": {}
+    },
+    "switch125": {
+        "input": {},
+        "output": {}
+    },
+    "switch126": {
+        "input": {},
+        "output": {}
+    },
+    "switch127": {
+        "input": {},
+        "output": {}
+    },
+    "switch128": {
+        "input": {},
+        "output": {}
+    },
+    "switch129": {
+        "input": {},
+        "output": {}
+    },
+    "switch13": {
+        "input": {},
+        "output": {}
+    },
+    "switch130": {
+        "input": {},
+        "output": {}
+    },
+    "switch131": {
+        "input": {},
+        "output": {}
+    },
+    "switch132": {
+        "input": {},
+        "output": {}
+    },
+    "switch133": {
+        "input": {},
+        "output": {}
+    },
+    "switch134": {
+        "input": {},
+        "output": {}
+    },
+    "switch135": {
+        "input": {},
+        "output": {}
+    },
+    "switch136": {
+        "input": {},
+        "output": {}
+    },
+    "switch137": {
+        "input": {},
+        "output": {}
+    },
+    "switch138": {
+        "input": {},
+        "output": {}
+    },
+    "switch139": {
+        "input": {},
+        "output": {}
+    },
+    "switch14": {
+        "input": {},
+        "output": {}
+    },
+    "switch140": {
+        "input": {},
+        "output": {}
+    },
+    "switch141": {
+        "input": {},
+        "output": {}
+    },
+    "switch142": {
+        "input": {},
+        "output": {}
+    },
+    "switch143": {
+        "input": {},
+        "output": {}
+    },
+    "switch144": {
+        "input": {},
+        "output": {}
+    },
+    "switch145": {
+        "input": {},
+        "output": {}
+    },
+    "switch146": {
+        "input": {},
+        "output": {}
+    },
+    "switch147": {
+        "input": {},
+        "output": {}
+    },
+    "switch148": {
+        "input": {},
+        "output": {}
+    },
+    "switch149": {
+        "input": {},
+        "output": {}
+    },
+    "switch15": {
+        "input": {},
+        "output": {}
+    },
+    "switch150": {
+        "input": {},
+        "output": {}
+    },
+    "switch151": {
+        "input": {},
+        "output": {}
+    },
+    "switch152": {
+        "input": {},
+        "output": {}
+    },
+    "switch153": {
+        "input": {},
+        "output": {}
+    },
+    "switch154": {
+        "input": {},
+        "output": {}
+    },
+    "switch155": {
+        "input": {},
+        "output": {}
+    },
+    "switch156": {
+        "input": {},
+        "output": {}
+    },
+    "switch157": {
+        "input": {},
+        "output": {}
+    },
+    "switch158": {
+        "input": {},
+        "output": {}
+    },
+    "switch159": {
+        "input": {},
+        "output": {}
+    },
+    "switch16": {
+        "input": {},
+        "output": {}
+    },
+    "switch160": {
+        "input": {},
+        "output": {}
+    },
+    "switch161": {
+        "input": {},
+        "output": {}
+    },
+    "switch162": {
+        "input": {},
+        "output": {}
+    },
+    "switch163": {
+        "input": {},
+        "output": {}
+    },
+    "switch164": {
+        "input": {},
+        "output": {}
+    },
+    "switch165": {
+        "input": {},
+        "output": {}
+    },
+    "switch166": {
+        "input": {},
+        "output": {}
+    },
+    "switch167": {
+        "input": {},
+        "output": {}
+    },
+    "switch168": {
+        "input": {},
+        "output": {}
+    },
+    "switch169": {
+        "input": {},
+        "output": {}
+    },
+    "switch17": {
+        "input": {},
+        "output": {}
+    },
+    "switch170": {
+        "input": {},
+        "output": {}
+    },
+    "switch171": {
+        "input": {},
+        "output": {}
+    },
+    "switch172": {
+        "input": {},
+        "output": {}
+    },
+    "switch173": {
+        "input": {},
+        "output": {}
+    },
+    "switch174": {
+        "input": {},
+        "output": {}
+    },
+    "switch175": {
+        "input": {},
+        "output": {}
+    },
+    "switch176": {
+        "input": {},
+        "output": {}
+    },
+    "switch177": {
+        "input": {},
+        "output": {}
+    },
+    "switch178": {
+        "input": {},
+        "output": {}
+    },
+    "switch179": {
+        "input": {},
+        "output": {}
+    },
+    "switch18": {
+        "input": {},
+        "output": {}
+    },
+    "switch180": {
+        "input": {},
+        "output": {}
+    },
+    "switch181": {
+        "input": {},
+        "output": {}
+    },
+    "switch182": {
+        "input": {},
+        "output": {}
+    },
+    "switch183": {
+        "input": {},
+        "output": {}
+    },
+    "switch184": {
+        "input": {},
+        "output": {}
+    },
+    "switch185": {
+        "input": {},
+        "output": {}
+    },
+    "switch186": {
+        "input": {},
+        "output": {}
+    },
+    "switch187": {
+        "input": {},
+        "output": {}
+    },
+    "switch188": {
+        "input": {},
+        "output": {}
+    },
+    "switch189": {
+        "input": {},
+        "output": {}
+    },
+    "switch19": {
+        "input": {},
+        "output": {}
+    },
+    "switch190": {
+        "input": {},
+        "output": {}
+    },
+    "switch191": {
+        "input": {},
+        "output": {}
+    },
+    "switch192": {
+        "input": {},
+        "output": {}
+    },
+    "switch193": {
+        "input": {},
+        "output": {}
+    },
+    "switch194": {
+        "input": {},
+        "output": {}
+    },
+    "switch195": {
+        "input": {},
+        "output": {}
+    },
+    "switch196": {
+        "input": {},
+        "output": {}
+    },
+    "switch197": {
+        "input": {},
+        "output": {}
+    },
+    "switch198": {
+        "input": {},
+        "output": {}
+    },
+    "switch199": {
+        "input": {},
+        "output": {}
+    },
+    "switch2": {
+        "input": {},
+        "output": {}
+    },
+    "switch20": {
+        "input": {},
+        "output": {}
+    },
+    "switch200": {
+        "input": {},
+        "output": {}
+    },
+    "switch201": {
+        "input": {},
+        "output": {}
+    },
+    "switch202": {
+        "input": {},
+        "output": {}
+    },
+    "switch203": {
+        "input": {},
+        "output": {}
+    },
+    "switch204": {
+        "input": {},
+        "output": {}
+    },
+    "switch205": {
+        "input": {},
+        "output": {}
+    },
+    "switch206": {
+        "input": {},
+        "output": {}
+    },
+    "switch207": {
+        "input": {},
+        "output": {}
+    },
+    "switch208": {
+        "input": {},
+        "output": {}
+    },
+    "switch209": {
+        "input": {},
+        "output": {}
+    },
+    "switch21": {
+        "input": {},
+        "output": {}
+    },
+    "switch210": {
+        "input": {},
+        "output": {}
+    },
+    "switch211": {
+        "input": {},
+        "output": {}
+    },
+    "switch212": {
+        "input": {},
+        "output": {}
+    },
+    "switch213": {
+        "input": {},
+        "output": {}
+    },
+    "switch214": {
+        "input": {},
+        "output": {}
+    },
+    "switch215": {
+        "input": {},
+        "output": {}
+    },
+    "switch216": {
+        "input": {},
+        "output": {}
+    },
+    "switch217": {
+        "input": {},
+        "output": {}
+    },
+    "switch218": {
+        "input": {},
+        "output": {}
+    },
+    "switch219": {
+        "input": {},
+        "output": {}
+    },
+    "switch22": {
+        "input": {},
+        "output": {}
+    },
+    "switch220": {
+        "input": {},
+        "output": {}
+    },
+    "switch221": {
+        "input": {},
+        "output": {}
+    },
+    "switch222": {
+        "input": {},
+        "output": {}
+    },
+    "switch223": {
+        "input": {},
+        "output": {}
+    },
+    "switch224": {
+        "input": {},
+        "output": {}
+    },
+    "switch225": {
+        "input": {},
+        "output": {}
+    },
+    "switch226": {
+        "input": {},
+        "output": {}
+    },
+    "switch227": {
+        "input": {},
+        "output": {}
+    },
+    "switch228": {
+        "input": {},
+        "output": {}
+    },
+    "switch229": {
+        "input": {},
+        "output": {}
+    },
+    "switch23": {
+        "input": {},
+        "output": {}
+    },
+    "switch230": {
+        "input": {},
+        "output": {}
+    },
+    "switch231": {
+        "input": {},
+        "output": {}
+    },
+    "switch232": {
+        "input": {},
+        "output": {}
+    },
+    "switch233": {
+        "input": {},
+        "output": {}
+    },
+    "switch234": {
+        "input": {},
+        "output": {}
+    },
+    "switch235": {
+        "input": {},
+        "output": {}
+    },
+    "switch236": {
+        "input": {},
+        "output": {}
+    },
+    "switch237": {
+        "input": {},
+        "output": {}
+    },
+    "switch238": {
+        "input": {},
+        "output": {}
+    },
+    "switch239": {
+        "input": {},
+        "output": {}
+    },
+    "switch24": {
+        "input": {},
+        "output": {}
+    },
+    "switch240": {
+        "input": {},
+        "output": {}
+    },
+    "switch241": {
+        "input": {},
+        "output": {}
+    },
+    "switch242": {
+        "input": {},
+        "output": {}
+    },
+    "switch243": {
+        "input": {},
+        "output": {}
+    },
+    "switch244": {
+        "input": {},
+        "output": {}
+    },
+    "switch245": {
+        "input": {},
+        "output": {}
+    },
+    "switch246": {
+        "input": {},
+        "output": {}
+    },
+    "switch247": {
+        "input": {},
+        "output": {}
+    },
+    "switch248": {
+        "input": {},
+        "output": {}
+    },
+    "switch249": {
+        "input": {},
+        "output": {}
+    },
+    "switch25": {
+        "input": {},
+        "output": {}
+    },
+    "switch250": {
+        "input": {},
+        "output": {}
+    },
+    "switch251": {
+        "input": {},
+        "output": {}
+    },
+    "switch252": {
+        "input": {},
+        "output": {}
+    },
+    "switch253": {
+        "input": {},
+        "output": {}
+    },
+    "switch254": {
+        "input": {},
+        "output": {}
+    },
+    "switch255": {
+        "input": {},
+        "output": {}
+    },
+    "switch256": {
+        "input": {},
+        "output": {}
+    },
+    "switch257": {
+        "input": {},
+        "output": {}
+    },
+    "switch258": {
+        "input": {},
+        "output": {}
+    },
+    "switch259": {
+        "input": {},
+        "output": {}
+    },
+    "switch26": {
+        "input": {},
+        "output": {}
+    },
+    "switch260": {
+        "input": {},
+        "output": {}
+    },
+    "switch261": {
+        "input": {},
+        "output": {}
+    },
+    "switch262": {
+        "input": {},
+        "output": {}
+    },
+    "switch263": {
+        "input": {},
+        "output": {}
+    },
+    "switch264": {
+        "input": {},
+        "output": {}
+    },
+    "switch265": {
+        "input": {},
+        "output": {}
+    },
+    "switch266": {
+        "input": {},
+        "output": {}
+    },
+    "switch267": {
+        "input": {},
+        "output": {}
+    },
+    "switch268": {
+        "input": {},
+        "output": {}
+    },
+    "switch269": {
+        "input": {},
+        "output": {}
+    },
+    "switch27": {
+        "input": {},
+        "output": {}
+    },
+    "switch270": {
+        "input": {},
+        "output": {}
+    },
+    "switch271": {
+        "input": {},
+        "output": {}
+    },
+    "switch272": {
+        "input": {},
+        "output": {}
+    },
+    "switch273": {
+        "input": {},
+        "output": {}
+    },
+    "switch274": {
+        "input": {},
+        "output": {}
+    },
+    "switch275": {
+        "input": {},
+        "output": {}
+    },
+    "switch276": {
+        "input": {},
+        "output": {}
+    },
+    "switch277": {
+        "input": {},
+        "output": {}
+    },
+    "switch278": {
+        "input": {},
+        "output": {}
+    },
+    "switch279": {
+        "input": {},
+        "output": {}
+    },
+    "switch28": {
+        "input": {},
+        "output": {}
+    },
+    "switch280": {
+        "input": {},
+        "output": {}
+    },
+    "switch281": {
+        "input": {},
+        "output": {}
+    },
+    "switch282": {
+        "input": {},
+        "output": {}
+    },
+    "switch283": {
+        "input": {},
+        "output": {}
+    },
+    "switch284": {
+        "input": {},
+        "output": {}
+    },
+    "switch285": {
+        "input": {},
+        "output": {}
+    },
+    "switch286": {
+        "input": {},
+        "output": {}
+    },
+    "switch287": {
+        "input": {},
+        "output": {}
+    },
+    "switch288": {
+        "input": {},
+        "output": {}
+    },
+    "switch289": {
+        "input": {},
+        "output": {}
+    },
+    "switch29": {
+        "input": {},
+        "output": {}
+    },
+    "switch290": {
+        "input": {},
+        "output": {}
+    },
+    "switch291": {
+        "input": {},
+        "output": {}
+    },
+    "switch292": {
+        "input": {},
+        "output": {}
+    },
+    "switch293": {
+        "input": {},
+        "output": {}
+    },
+    "switch294": {
+        "input": {},
+        "output": {}
+    },
+    "switch295": {
+        "input": {},
+        "output": {}
+    },
+    "switch296": {
+        "input": {},
+        "output": {}
+    },
+    "switch297": {
+        "input": {},
+        "output": {}
+    },
+    "switch298": {
+        "input": {},
+        "output": {}
+    },
+    "switch299": {
+        "input": {},
+        "output": {}
+    },
+    "switch3": {
+        "input": {},
+        "output": {}
+    },
+    "switch30": {
+        "input": {},
+        "output": {}
+    },
+    "switch300": {
+        "input": {},
+        "output": {}
+    },
+    "switch301": {
+        "input": {},
+        "output": {}
+    },
+    "switch302": {
+        "input": {},
+        "output": {}
+    },
+    "switch303": {
+        "input": {},
+        "output": {}
+    },
+    "switch304": {
+        "input": {},
+        "output": {}
+    },
+    "switch305": {
+        "input": {},
+        "output": {}
+    },
+    "switch306": {
+        "input": {},
+        "output": {}
+    },
+    "switch307": {
+        "input": {},
+        "output": {}
+    },
+    "switch308": {
+        "input": {},
+        "output": {}
+    },
+    "switch309": {
+        "input": {},
+        "output": {}
+    },
+    "switch31": {
+        "input": {},
+        "output": {}
+    },
+    "switch310": {
+        "input": {},
+        "output": {}
+    },
+    "switch311": {
+        "input": {},
+        "output": {}
+    },
+    "switch312": {
+        "input": {},
+        "output": {}
+    },
+    "switch313": {
+        "input": {},
+        "output": {}
+    },
+    "switch314": {
+        "input": {},
+        "output": {}
+    },
+    "switch315": {
+        "input": {},
+        "output": {}
+    },
+    "switch316": {
+        "input": {},
+        "output": {}
+    },
+    "switch317": {
+        "input": {},
+        "output": {}
+    },
+    "switch318": {
+        "input": {},
+        "output": {}
+    },
+    "switch319": {
+        "input": {},
+        "output": {}
+    },
+    "switch32": {
+        "input": {},
+        "output": {}
+    },
+    "switch320": {
+        "input": {},
+        "output": {}
+    },
+    "switch321": {
+        "input": {},
+        "output": {}
+    },
+    "switch33": {
+        "input": {},
+        "output": {}
+    },
+    "switch34": {
+        "input": {},
+        "output": {}
+    },
+    "switch35": {
+        "input": {},
+        "output": {}
+    },
+    "switch36": {
+        "input": {},
+        "output": {}
+    },
+    "switch37": {
+        "input": {},
+        "output": {}
+    },
+    "switch38": {
+        "input": {},
+        "output": {}
+    },
+    "switch39": {
+        "input": {},
+        "output": {}
+    },
+    "switch4": {
+        "input": {},
+        "output": {}
+    },
+    "switch40": {
+        "input": {},
+        "output": {}
+    },
+    "switch41": {
+        "input": {},
+        "output": {}
+    },
+    "switch42": {
+        "input": {},
+        "output": {}
+    },
+    "switch43": {
+        "input": {},
+        "output": {}
+    },
+    "switch44": {
+        "input": {},
+        "output": {}
+    },
+    "switch45": {
+        "input": {},
+        "output": {}
+    },
+    "switch46": {
+        "input": {},
+        "output": {}
+    },
+    "switch47": {
+        "input": {},
+        "output": {}
+    },
+    "switch48": {
+        "input": {},
+        "output": {}
+    },
+    "switch49": {
+        "input": {},
+        "output": {}
+    },
+    "switch5": {
+        "input": {},
+        "output": {}
+    },
+    "switch50": {
+        "input": {},
+        "output": {}
+    },
+    "switch51": {
+        "input": {},
+        "output": {}
+    },
+    "switch52": {
+        "input": {},
+        "output": {}
+    },
+    "switch53": {
+        "input": {},
+        "output": {}
+    },
+    "switch54": {
+        "input": {},
+        "output": {}
+    },
+    "switch55": {
+        "input": {},
+        "output": {}
+    },
+    "switch56": {
+        "input": {},
+        "output": {}
+    },
+    "switch57": {
+        "input": {},
+        "output": {}
+    },
+    "switch58": {
+        "input": {},
+        "output": {}
+    },
+    "switch59": {
+        "input": {},
+        "output": {}
+    },
+    "switch6": {
+        "input": {},
+        "output": {}
+    },
+    "switch60": {
+        "input": {},
+        "output": {}
+    },
+    "switch61": {
+        "input": {},
+        "output": {}
+    },
+    "switch62": {
+        "input": {},
+        "output": {}
+    },
+    "switch63": {
+        "input": {},
+        "output": {}
+    },
+    "switch64": {
+        "input": {},
+        "output": {}
+    },
+    "switch65": {
+        "input": {},
+        "output": {}
+    },
+    "switch66": {
+        "input": {},
+        "output": {}
+    },
+    "switch67": {
+        "input": {},
+        "output": {}
+    },
+    "switch68": {
+        "input": {},
+        "output": {}
+    },
+    "switch69": {
+        "input": {},
+        "output": {}
+    },
+    "switch7": {
+        "input": {},
+        "output": {}
+    },
+    "switch70": {
+        "input": {},
+        "output": {}
+    },
+    "switch71": {
+        "input": {},
+        "output": {}
+    },
+    "switch72": {
+        "input": {},
+        "output": {}
+    },
+    "switch73": {
+        "input": {},
+        "output": {}
+    },
+    "switch74": {
+        "input": {},
+        "output": {}
+    },
+    "switch75": {
+        "input": {},
+        "output": {}
+    },
+    "switch76": {
+        "input": {},
+        "output": {}
+    },
+    "switch77": {
+        "input": {},
+        "output": {}
+    },
+    "switch78": {
+        "input": {},
+        "output": {}
+    },
+    "switch79": {
+        "input": {},
+        "output": {}
+    },
+    "switch8": {
+        "input": {},
+        "output": {}
+    },
+    "switch80": {
+        "input": {},
+        "output": {}
+    },
+    "switch81": {
+        "input": {},
+        "output": {}
+    },
+    "switch82": {
+        "input": {},
+        "output": {}
+    },
+    "switch83": {
+        "input": {},
+        "output": {}
+    },
+    "switch84": {
+        "input": {},
+        "output": {}
+    },
+    "switch85": {
+        "input": {},
+        "output": {}
+    },
+    "switch86": {
+        "input": {},
+        "output": {}
+    },
+    "switch87": {
+        "input": {},
+        "output": {}
+    },
+    "switch88": {
+        "input": {},
+        "output": {}
+    },
+    "switch89": {
+        "input": {},
+        "output": {}
+    },
+    "switch9": {
+        "input": {},
+        "output": {}
+    },
+    "switch90": {
+        "input": {},
+        "output": {}
+    },
+    "switch91": {
+        "input": {},
+        "output": {}
+    },
+    "switch92": {
+        "input": {},
+        "output": {}
+    },
+    "switch93": {
+        "input": {},
+        "output": {}
+    },
+    "switch94": {
+        "input": {},
+        "output": {}
+    },
+    "switch95": {
+        "input": {},
+        "output": {}
+    },
+    "switch96": {
+        "input": {},
+        "output": {}
+    },
+    "switch97": {
+        "input": {},
+        "output": {}
+    },
+    "switch98": {
+        "input": {},
+        "output": {}
+    },
+    "switch99": {
+        "input": {},
+        "output": {}
+    },
+    "trafo114": {
+        "input": {
+            "tp_pos": "int"
+        },
+        "output": {
+            "pl_kw": "float",
+            "ql_kvar": "float"
+        }
+    },
+    "trafo142": {
+        "input": {
+            "tp_pos": "int"
+        },
+        "output": {
+            "pl_kw": "float",
+            "ql_kvar": "float"
+        }
+    }
+}
